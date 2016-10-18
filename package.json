@@ -1,0 +1,12 @@
+{
+  "name": "saavyConsumer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-app": "^2.1.0",
+    "chatskills": "*",
+    "readline-sync": "*",
+    "deasync": "*",
+    "aws-lib": "*"
+  }
+}
