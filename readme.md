@@ -110,3 +110,8 @@ DontHearMore    no thank you
 DontHearMore    not now
 DontHearMore    negative
 ```
+
+Author
+------
+
+Kory Becker http://www.primaryobjects.com/kory-becker
